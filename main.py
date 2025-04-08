@@ -18,16 +18,16 @@ PRODUCTS = [
 ]
 
 CONFIG = {
-    'email': 'tooba.saeed954@gmail.com',
-    'first_name': 'Sara',
-    'last_name': 'Saeed',
-    'address1': 'K Mustafa Town',
-    'address2': 'Lahore',
-    'province': 'Punjab',
-    'city': 'Lahore',
-    'postal_code': '54000',
-    'phone': '03001234567',
-    'payment_method': 'cod'
+    'email': '',
+    'first_name': '',
+    'last_name': '',
+    'address1': '',
+    'address2': '',
+    'province': '',
+    'city': '',
+    'postal_code': '',
+    'phone': '',
+    'payment_method': ''
 }
 
 def run_bot():
